@@ -1,0 +1,37 @@
+.footer {
+    background-color: #efefef;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer_container {
+    width: 100%;
+    max-width: 1110px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.footer_items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.footer_item--left--text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #828282;
+}
+
+.footer_item--right--text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #828282;
+}
